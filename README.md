@@ -5,7 +5,7 @@
     <img src="Resources/Icon128.png" alt="Logo" width="128" height="128">
   </a>
 <h3 align="center">DeepThought Engine</h3>
-  <p align="center">HuggingFace Tokenizers in UE</p>
+  <p align="center">Driving Open Source Innovation in Game Development with Advanced AI Integration</p>
 
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
