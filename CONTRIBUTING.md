@@ -53,7 +53,7 @@ git commit -m "A brief summary of the commit
 ### Coding conventions
 
 Start reading our code and you may be able to get the hang of it. 
-If you're unsure, feel free to contact me (p1ayer_1) on [Discord](https://discord.gg/AWWECeRcyX) or open an issue for discussion 
+If you're unsure, feel free to contact me (@p1ayer_1) on [Discord](https://discord.gg/AWWECeRcyX) or open an issue for discussion 
 Here are some key points to keep in mind:
 
   * **Indentation:** We indent using four spaces (standard tabs)
